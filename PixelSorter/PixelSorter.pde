@@ -1,3 +1,7 @@
+// PixelSorter v141011
+// By MCG
+// Processing 2.1.2
+
 PImage img;
 PImage timg;
 String filename;
